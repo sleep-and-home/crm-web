@@ -1,0 +1,117 @@
+{
+  "recent": [
+    {
+      "type": "order",
+      "title": "Order #194221",
+      "subtitle": "Moscow · delivered",
+      "route": "/orders?page=1&per_page=100",
+      "keywords": ["194221", "moscow", "delivered"]
+    },
+    {
+      "type": "product",
+      "title": "Топперы Consul 0525",
+      "subtitle": "Consul · Топперы",
+      "route": "/products?page=1&per_page=100",
+      "keywords": ["topper", "consul", "0525"]
+    },
+    {
+      "type": "brand",
+      "title": "Brand: Askona",
+      "subtitle": "Active products",
+      "route": "/brands?page=1&per_page=100",
+      "keywords": ["askona", "brand"]
+    }
+  ],
+  "orders": [
+    {
+      "type": "order",
+      "title": "Order #194221",
+      "subtitle": "Moscow · delivered",
+      "route": "/orders?page=1&per_page=100",
+      "keywords": ["194221", "moscow", "delivered"]
+    },
+    {
+      "type": "order",
+      "title": "Order #194188",
+      "subtitle": "Kazan · shipped",
+      "route": "/orders?page=1&per_page=100",
+      "keywords": ["194188", "kazan", "shipped"]
+    },
+    {
+      "type": "order",
+      "title": "Order #194101",
+      "subtitle": "Sochi · in production",
+      "route": "/orders?page=1&per_page=100",
+      "keywords": ["194101", "sochi", "in production"]
+    }
+  ],
+  "products": [
+    {
+      "type": "product",
+      "title": "Топперы Consul 0525",
+      "subtitle": "Consul · Топперы",
+      "route": "/products?page=1&per_page=100",
+      "keywords": ["topper", "consul", "0525"]
+    },
+    {
+      "type": "product",
+      "title": "Взрослые Virtuoz 1753",
+      "subtitle": "Virtuoz · Взрослые",
+      "route": "/products?page=1&per_page=100",
+      "keywords": ["virtuoz", "1753", "mattress"]
+    },
+    {
+      "type": "product",
+      "title": "Подушки Sonum 0184",
+      "subtitle": "Sonum · Подушки",
+      "route": "/products?page=1&per_page=100",
+      "keywords": ["sonum", "0184", "pillow"]
+    }
+  ],
+  "brands": [
+    {
+      "type": "brand",
+      "title": "Brand: Askona",
+      "subtitle": "Top selling",
+      "route": "/brands?page=1&per_page=100",
+      "keywords": ["askona", "brand", "top selling"]
+    },
+    {
+      "type": "brand",
+      "title": "Brand: Consul",
+      "subtitle": "Premium lineup",
+      "route": "/brands?page=1&per_page=100",
+      "keywords": ["consul", "brand", "premium"]
+    },
+    {
+      "type": "brand",
+      "title": "Brand: DreamLine",
+      "subtitle": "Mass market",
+      "route": "/brands?page=1&per_page=100",
+      "keywords": ["dreamline", "brand"]
+    }
+  ],
+  "categories": [
+    {
+      "type": "category",
+      "title": "Category: Топперы",
+      "subtitle": "Наматрасники",
+      "route": "/categories?page=1&per_page=100",
+      "keywords": ["topper", "category", "наматрасники"]
+    },
+    {
+      "type": "category",
+      "title": "Category: Подушки",
+      "subtitle": "Sleep accessories",
+      "route": "/categories?page=1&per_page=100",
+      "keywords": ["pillow", "category"]
+    },
+    {
+      "type": "category",
+      "title": "Category: Взрослые",
+      "subtitle": "Матрасы",
+      "route": "/categories?page=1&per_page=100",
+      "keywords": ["adult", "mattress", "category"]
+    }
+  ]
+}
