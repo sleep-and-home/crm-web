@@ -9,6 +9,7 @@ const menuLinks = [
   { name: 'Brands', path: '/brands' },
   { name: 'Categories', path: '/categories' },
   { name: 'Orders', path: '/orders' },
+  { name: 'Reports', path: '/reports' },
 ]
 </script>
 

@@ -4,6 +4,7 @@ import ProductsView from '../views/ProductsView.vue'
 import BrandsView from '../views/BrandsView.vue'
 import CategoriesView from '../views/CategoriesView.vue'
 import OrdersView from '../views/OrdersView.vue'
+import ReportsView from '../views/ReportsView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -32,6 +33,11 @@ const router = createRouter({
       path: '/orders',
       name: 'orders',
       component: OrdersView,
+    },
+    {
+      path: '/reports',
+      name: 'reports',
+      component: ReportsView,
     },
   ],
 })
